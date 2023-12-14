@@ -32,6 +32,8 @@ Antes de comenzar queria contarles como va a funcionar por dentro este sitio web
 - En un horario solo se podran hacer un maximo de 4 reservas
 - La cantidad maxima de comensales sera de 4
 
+![happening_reservas](./public/imgs/reservas_happening.png)
+
 ### comenzar
 
 Para comenzar lo primero que deberian de hacer es clonar este repositorio.Para ello deberan de ir a un carpeta de su computador,abrir su terminar y ejectuar el siguiente comando.
